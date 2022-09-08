@@ -1,10 +1,11 @@
 1.Install NodeJS Window
 (Option: Packages npm website https://www.npmjs.com/)
 2.Install Packages create-react-native-app
+cd C:\Users\<User>
 npm i create-react-native-app
-3.New Folder project
-cd project
 4.Creat app
+e:
+cd E:\Project\ReactNative
 create-react-native-app test
 5.Open web
 cd test
