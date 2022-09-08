@@ -6,3 +6,8 @@ npm i create-react-native-app
 cd project
 4.Creat app
 create-react-native-app test
+5.Open web
+cd test
+npm i @expo/webpack-config@^0.17.0
+npm start
+w
