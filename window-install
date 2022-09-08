@@ -1,0 +1,6 @@
+1.Install NodeJS Window
+(Option: Packages npm website https://www.npmjs.com/)
+2.Install Packages create-react-native-app
+npm i create-react-native-app
+3.New project
+create-react-native-app test
