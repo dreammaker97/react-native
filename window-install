@@ -2,7 +2,7 @@
 (Option: Packages npm website https://www.npmjs.com/)
 2.Install Packages create-react-native-app
 npm i create-react-native-app
-3.New Folder test
-cd test
+3.New Folder project
+cd project
 4.Creat app
 create-react-native-app test
